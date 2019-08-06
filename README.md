@@ -1,2 +1,3 @@
-# terraform-aws-base
-Terraform base module for basic information
+# AWS Base Terraform module
+
+This module is really just a starting point 
