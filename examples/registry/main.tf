@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 module "base" {
-  source = "../../"
+  source  = "scottschreckengaust/base/aws"
 }
